@@ -1,4 +1,3 @@
-EXERCISE QUESTIONS
 Using the data provided, create a series of visualizations (e.g., charts, graphs, etc.) that answer the following questions regarding the results of the 2006 Pike’s Peak 10k Race:
 1. What are the mean, median, mode, and range of the race results for all racers by gender?
 2. Analyze the difference between gun and net time race results.
